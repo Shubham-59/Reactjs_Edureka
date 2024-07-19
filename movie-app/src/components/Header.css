@@ -1,0 +1,84 @@
+/* Header.css */
+
+.header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-logo .logo {
+    height: 100px; /* Set the desired height */
+    width: auto; /* Maintain the aspect ratio by setting width to auto */
+}
+
+.nav-title {
+    text-align: center;
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.site-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.site-tagline {
+    font-size: 0.9em;
+    color: #888;
+}
+
+.search-input-wrapper {
+    display: flex;
+    align-items: center;
+    flex-grow: 2;
+    max-width: 500px;
+    margin: 0 20px;
+}
+
+.search-input {
+    flex-grow: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+}
+
+.search-button {
+    padding: 8px 15px;
+    background-color: #ff3d71;
+    border: none;
+    color: white;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+.nav-links .nav-link {
+    margin-left: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.nav-link .link-icon {
+    margin-right: 5px;
+}
+
+.nav-link .link-text {
+    display: block;
+    font-size: 0.9em;
+}
+
+.nav-link .link-subtext {
+    font-size: 0.8em;
+    color: #888;
+}

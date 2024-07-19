@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
-import './Read.css'; // Make sure to import the CSS file
+import './Read.css'; 
 import { Link } from 'react-router-dom';
 
 const Read = () => {

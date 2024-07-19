@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the",
+      "price": 10,
+      "thumbnail": "/images/inception.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past,",
+      "price": 20,
+      "thumbnail": "/images/TDK.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "description": "A team of explorers travel.",
+      "price": 15,
+      "thumbnail": "/images/interstellar.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "The Incredible Hulk",
+      "description": "Bruce Banner, a scientist on the run from the U.S.",
+      "price": 16,
+      "thumbnail": "/images/hulk.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker balances his life as an ordinary high school student.",
+      "price": 14,
+      "thumbnail": "/images/fa9900c8047d5c4b5f1c2f1ed2f66b86.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Captain Marvel",
+      "description": "Carol Danvers becomes one of the universe's most powerful hero.",
+      "price": 20,
+      "thumbnail": "/images/captainm.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Iron Man",
+      "description": "After being held captive in an Afghanevil.",
+      "price": 18,
+      "thumbnail": "/images/Iron-Man-Wallpaper-1.webp"
+    },
+    {
+      "id": "8",
+      "title": "Captain America: The First Avenger",
+      "description": "Steve Rogers, a rejected military soldier.",
+      "thumbnail": "/images/avengers-vm16xv4a69smdauy.jpg"
+    }
+  ],
+  "saveForLater": [
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past,",
+      "price": 20,
+      "thumbnail": "/images/TDK.jpeg"
+    }
+  ]
+}

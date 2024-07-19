@@ -1,0 +1,26 @@
+/* App.css */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.col {
+  flex: 1;
+  margin: 10px;
+}
+
+h3 {
+  text-align: center;
+  color: #424242;
+  font-weight: 650;
+  margin-bottom: 20px;
+}

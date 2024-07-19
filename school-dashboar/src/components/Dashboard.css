@@ -1,0 +1,16 @@
+.dashboard {
+    margin-left: 250px; /* Match sidebar width */
+    padding: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-md-4 {
+    flex: 1;
+    min-width: 250px;
+    margin: 10px;
+  }
+  

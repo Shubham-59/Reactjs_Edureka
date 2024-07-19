@@ -16,7 +16,7 @@ import Buttons from './Buttons';
 function App() {
   const studentInfo = {
     name: 'Shubham',
-    address: 'Pune',
+    address: '123 Main St ',
     scores: [95, 85, 90]
   };
 

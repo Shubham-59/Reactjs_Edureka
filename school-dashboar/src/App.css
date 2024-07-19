@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+}
+
+.main-content {
+  width: 100%;
+  background: #f4f6f8;
+}

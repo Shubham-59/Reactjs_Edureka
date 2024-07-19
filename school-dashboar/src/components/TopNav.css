@@ -1,0 +1,24 @@
+.top-nav {
+    height: 60px;
+    background: linear-gradient(to right, #0066ff, #0099ff);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 250px; /* Match sidebar width */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .top-nav input[type="text"] {
+    width: 300px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .user-profile img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  

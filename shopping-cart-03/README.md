@@ -14,3 +14,21 @@ Product List:
 The ProductList component fetches products from the store and renders each product using the Product component.
 Cart:
 The Cart component fetches cart items from the store, calculates the total amount, and renders each item using the CartItem component.
+ Redux Shopping Cart Demo
+This is a simple React application demonstrating shopping cart functionality using Redux for state management.
+
+Features
+
+Product List Display: Show a list of products with their names and prices.
+Add to Cart: Add products to the shopping cart.
+Remove from Cart: Remove products from the shopping cart.
+Total Amount: Display the total amount of products in the cart.
+Single Item Limit: Ensure only one item of each product can be added to the cart.
+
+Technologies Used
+
+React: For building the user interface.
+Redux: For state management.
+JavaScript (ES6+): For scripting.
+HTML5: For structuring the web page.
+CSS3: For styling the web page.
